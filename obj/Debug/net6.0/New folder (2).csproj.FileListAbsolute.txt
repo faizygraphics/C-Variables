@@ -1,0 +1,15 @@
+C:\Users\fazit\OneDrive\Desktop\New folder (2)\bin\Debug\net6.0\New folder (2).exe
+C:\Users\fazit\OneDrive\Desktop\New folder (2)\bin\Debug\net6.0\New folder (2).deps.json
+C:\Users\fazit\OneDrive\Desktop\New folder (2)\bin\Debug\net6.0\New folder (2).runtimeconfig.json
+C:\Users\fazit\OneDrive\Desktop\New folder (2)\bin\Debug\net6.0\New folder (2).dll
+C:\Users\fazit\OneDrive\Desktop\New folder (2)\bin\Debug\net6.0\ref\New folder (2).dll
+C:\Users\fazit\OneDrive\Desktop\New folder (2)\bin\Debug\net6.0\New folder (2).pdb
+C:\Users\fazit\OneDrive\Desktop\New folder (2)\obj\Debug\net6.0\New folder (2).csproj.AssemblyReference.cache
+C:\Users\fazit\OneDrive\Desktop\New folder (2)\obj\Debug\net6.0\New folder (2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazit\OneDrive\Desktop\New folder (2)\obj\Debug\net6.0\New folder (2).AssemblyInfoInputs.cache
+C:\Users\fazit\OneDrive\Desktop\New folder (2)\obj\Debug\net6.0\New folder (2).AssemblyInfo.cs
+C:\Users\fazit\OneDrive\Desktop\New folder (2)\obj\Debug\net6.0\New folder (2).csproj.CoreCompileInputs.cache
+C:\Users\fazit\OneDrive\Desktop\New folder (2)\obj\Debug\net6.0\New folder (2).dll
+C:\Users\fazit\OneDrive\Desktop\New folder (2)\obj\Debug\net6.0\ref\New folder (2).dll
+C:\Users\fazit\OneDrive\Desktop\New folder (2)\obj\Debug\net6.0\New folder (2).pdb
+C:\Users\fazit\OneDrive\Desktop\New folder (2)\obj\Debug\net6.0\New folder (2).genruntimeconfig.cache
